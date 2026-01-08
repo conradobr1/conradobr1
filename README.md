@@ -1,10 +1,10 @@
 ## Hi there 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)
 <!--
 **conradobr1/conradobr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
