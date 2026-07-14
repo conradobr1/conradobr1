@@ -1,12 +1,12 @@
 ## Hi there 👋
 
                                             
-                                            
+   ```text                                         
 ▄█████  ▄▄▄  ▄▄  ▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄   ▄▄▄  
 ██     ██▀██ ███▄██ ██▄█▄ ██▀██ ██▀██ ██▀██ 
 ▀█████ ▀███▀ ██ ▀██ ██ ██ ██▀██ ████▀ ▀███▀ 
                                             
-
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=conradobr1&color=blue)
 <BR>
