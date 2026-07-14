@@ -1,12 +1,12 @@
 ## Hi there 👋
- <div align="center">                               
-   ```text                                         
+                             
+<div align="center">  ```text                                         
                                 ▄█████  ▄▄▄  ▄▄  ▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄   ▄▄▄  
                                 ██     ██▀██ ███▄██ ██▄█▄ ██▀██ ██▀██ ██▀██ 
                                 ▀█████ ▀███▀ ██ ▀██ ██ ██ ██▀██ ████▀ ▀███▀ 
                                             
-```
-</div>
+</div>```
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=conradobr1&color=blue)
 <BR>
